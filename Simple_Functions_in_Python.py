@@ -1,3 +1,15 @@
+# File: Simple_Functions_in_Python.py
+# Description: Simple examples on how to create and use functions in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Simple examples on how to create and use functions in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Simple_Functions_in_Python (date of access: XX.XX.XXXX)
+
+
 # Creating functions in Python
 def min2(a, b):  # Defining function with two parameters
     if a <= b:
